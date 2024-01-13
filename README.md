@@ -8,8 +8,9 @@ Recent studies have extensively used deep learning algorithms to analyze gene ex
 
 The data that support the findings of this study are openly available at the following URL/DOI: www.cancer.gov/tcga
 We downloaded raw gene expression, survival data, clinical information, ensemble to gene symbol data using tcga_data_download.R
+
 Due to periodic updates, downloaded data may vary depending on the timing (We downloaded it in July 2022).
 
 # Codes
 
-Test the code using the main.py file and check the results for COAD
+Test all the codes using the main.py file and check the results for COAD.
